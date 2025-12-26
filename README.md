@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi there, I'm Sahejbir Singh 👋 
+### A Passionate Learner & Aspiring Developer
 
-<!--
-**Saejdot23/Saejdot23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://img.shields.io/badge/-Continuous_Learner-white?style=for-the-badge&logo=knowledge&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Problem_Solver-white?style=for-the-badge&logo=leetcode&logoColor=black" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💫 About Me
+I am a dedicated **Learner** focused on building clean, efficient, and scalable solutions. I believe in the power of "learning by doing" and am constantly exploring new technologies to broaden my horizon.
+
+- 🔭 **Currently working on:** Improving my data structures and algorithm skills , Data Science and Backend development 
+- 🎯 **Goal:** To contribute to impactful open-source projects.
+- ⚡ **Fun fact:** I believe every line of code is a lesson learned.
+
+---
+
+## 🛠 Tech Stack & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c++,python,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=000000&icon_color=000000&text_color=555555" alt="Sahejbir's Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=555555" alt="Top Langs" width="300" />
+</p>
+
+---
+
+## 🤝 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+---
+<p align="center">
+  <i>"Stay hungry, stay foolish."</i>
+</p>
