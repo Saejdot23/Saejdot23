@@ -44,5 +44,5 @@ I am a dedicated **Learner** focused on building clean, efficient, and scalable 
 
 ---
 <p align="center">
-  <i>"!% better than yesterday"</i>
+  <i>"1% better than yesterday"</i>
 </p>
