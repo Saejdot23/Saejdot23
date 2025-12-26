@@ -44,5 +44,5 @@ I am a dedicated **Learner** focused on building clean, efficient, and scalable 
 
 ---
 <p align="center">
-  <i>"Stay hungry, stay foolish."</i>
+  <i>"!% better than yesterday"</i>
 </p>
