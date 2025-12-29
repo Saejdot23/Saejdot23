@@ -12,7 +12,7 @@
 I am a dedicated **Learner** focused on building clean, efficient, and scalable solutions. I believe in the power of "learning by doing" and am constantly exploring new technologies to broaden my horizon.
 
 - 🔭 **Currently working on:** Improving my data structures and algorithm skills , Data Science and Backend development 
-- 🎯 **Goal:** To contribute to impactful open-source projects.
+- 🎯 **Goal:** To learn and contribute to impactful open-source projects.
 - ⚡ **Fun fact:** I believe every line of code is a lesson learned.
 
 ---
