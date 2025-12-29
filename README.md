@@ -19,9 +19,10 @@ I am a dedicated **Learner** focused on building clean, efficient, and scalable 
 
 ## 🛠 Tech Stack & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c++,python,git,github,vscode" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,py,django,postgres,git,github,vscode&perline=7" />
+  </a>
 </p>
-
 ---
 
 ## 📊 GitHub Stats
