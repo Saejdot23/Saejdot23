@@ -20,16 +20,17 @@ I am a dedicated **Learner** focused on building clean, efficient, and scalable 
 ## 🛠 Tech Stack & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,django,postgres,git,github,vscode,sfml" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,django,postgres,git,github,vscode" />
   </a>
+  <img src="https://www.sfml-dev.org/images/logo.png" height="48" alt="SFML" style="vertical-align:top; margin-left: 5px;" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=000000&icon_color=000000&text_color=555555" alt="Sahejbir's Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=555555" alt="Top Langs" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Saejdot23&show_icons=true&theme=transparent&hide_border=true&title_color=000000&icon_color=000000&text_color=555555" alt="Sahejbir's Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saejdot23&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=555555" alt="Top Langs" width="300" />
 </p>
 
 ---
