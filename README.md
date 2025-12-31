@@ -11,7 +11,7 @@
 ## 💫 About Me
 I am a dedicated **Learner** focused on building clean, efficient, and scalable solutions. I believe in the power of "learning by doing" and am constantly exploring new technologies to broaden my horizon.
 
-- 🔭 **Currently working on:** Improving my data structures and algorithm skills , Data Science and Backend development 
+- 🔭 **Currently working on:** Improving my data structures and algorithm skills, Data Science and Backend development 
 - 🎯 **Goal:** To learn and contribute to impactful open-source projects.
 - ⚡ **Fun fact:** I believe every line of code is a lesson learned.
 
@@ -20,10 +20,10 @@ I am a dedicated **Learner** focused on building clean, efficient, and scalable 
 ## 🛠 Tech Stack & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,django,postgres,git,github,vscode"
-      <img src="https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=sfml&logoColor=white" />/>
+    <img src="https://skillicons.dev/icons?i=cpp,py,django,postgres,git,github,vscode,sfml" />
   </a>
 </p>
+
 ---
 
 ## 📊 GitHub Stats
